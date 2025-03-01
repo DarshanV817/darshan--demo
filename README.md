@@ -1,3 +1,3 @@
 # darshan--demo
-This is my first Git Repository 
-author---Darshan Vispute
+This is my first Git Repository .
+Author---Darshan Vispute
